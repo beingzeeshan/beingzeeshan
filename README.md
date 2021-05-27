@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beingzeeshan
+- 👋 Hi, I’m Zeeshan Ahmad
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Cloud, Python & Terraform
 - 💞️ I’m looking to collaborate on ...
