@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Cloud, Python & Terraform
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 📫 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 ![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingzeeshan&show_icons=true&theme=vue-dark)
 
