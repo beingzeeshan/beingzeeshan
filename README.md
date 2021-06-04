@@ -2,9 +2,24 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Cloud, Python & Terraform
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <zeeshan_ahmad@aol.com>
+- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-[![Zeeshan GitHub stats](https://github-readme-stats.vercel.app/api?username=beingzeeshan)](https://github.com/beingzeeshan/github-readme-stats)
+![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingzeeshan&show_icons=true&theme=vue-dark)
+
+<!-- Actual text -->
+
+
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://github.com/MartinHeinz/MartinHeinz/blob/master/linkedin-3-16.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/zeeshantweet
+[2]: https://www.linkedin.com/in/zeeshan-ahmad/
+
 
 
 <!---
